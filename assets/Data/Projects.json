@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "title": "Conversational RAG Application",
+    "short_description": "LangChain | ChromaDB | OpenAI | Python",
+    "description": "<p>Conversational RAG Chatbot for Personalized Information Retrieval</p><p>I recently built a Conversational Retrieval-Augmented Generation (RAG) Chatbot that enhances information retrieval by leveraging LangChain and OpenAI's LLMs. This chatbot processes and extracts relevant insights from uploaded documents (e.g., CVs, reports, PDFs), enabling intelligent and context-aware conversations.</p><p>&nbsp;</p><p>Project Overview</p><p>This project focuses on implementing RAG architecture, combining LLM-based responses with a vector database for efficient and accurate information retrieval. The chatbot can handle contextualized conversations by maintaining session-based history, ensuring a smooth and interactive experience.</p><p>&nbsp;</p><p>This project showcases how LLMs can be combined with vector databases to create a powerful AI-driven knowledge assistant. I plan to extend it further by integrating real-time data sources and expanding support for multiple document formats.</p>",
+    "image": "/images/voice-search.jpg",
+    "technologies": ["LangChain", "ChromaDB", "OpenAI Embeddings", "OpenAI GPT-3.5 Turbo","Python"],
+    "link": "https://github.com/dilshanperera98/Conversational-RAG-Application-with-LangChain-and-OpenAI-LLM.git"
+  },
+  {
+    "id": 2,
+    "title": "Ai Powered Tour Guide",
+    "short_description": "Google Vision API | OpenAI | Python",
+    "description": "<p>AI-Powered Tour Guide – Project Overview<br>I developed an AI-powered Tour Guide that utilizes Google Vision API and OpenAI GPT-4 to enhance the travel experience by providing automatic landmark identification and detailed historical insights.<br><br>Purpose: This project aims to offer tourists an interactive and educational experience by recognizing landmarks through images and providing real-time historical descriptions of those landmarks.</p>",
+    "technologies": ["Google Vision API", "OpenAI GPT-4", "API Integratione","Python"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://github.com/dilshanperera98/Ai-Powered-Tour-Guide.git"
+  },
+  {
+    "id": 3,
+    "title": "Image Recognize System",
+    "short_description": "NLP | TensorFlow | Keras",
+    "description": "<p>I implemented this system for the Aahaas Travel platform, enabling real-time landmark recognition and enhancing the user experience with AI-driven insights.</p>",
+    "technologies": ["NLP","Pre Trained Model","MobileNetV2","TensorFlow","Keras"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://github.com/dilshanperera98/Aahaas-Images-Recognize.git"
+  },
+  {
+    "id": 4,
+    "title": "Voice Recognize System",
+    "short_description": "OpenAI | Pandas | Speech_Recognition",
+    "description": "<p>I implemented this voice search system for the Aahaas Travel platform, allowing users to search for products through voice commands for a more interactive experience.</p>",
+    "technologies": ["Google Vision API", "OpenAI GPT-4", "API Integratione","Python"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://github.com/dilshanperera98/Products-Search-Through-Voice-Recognition-.git"
+  },
+  {
+    "id": 5,
+    "title": "AWS Redshift Data Warehouse Project",
+    "short_description": "AWS",
+    "description": "<p><strong>Project Description: Setting Up a Star Schema Data Warehouse in AWS Redshift</strong> In this project, I set up a mini star schema-based data warehouse using AWS Redshift and Amazon S3 for analytical operations. The objective was to integrate AWS services, manage data efficiently, and perform SQL-based analytics. The process involved creating and configuring a Redshift cluster, setting up IAM roles with necessary permissions, and uploading data from Amazon S3 buckets. I created structured tables for the data warehouse, including tables such as <code>part</code>, <code>supplier</code>, and <code>dwdate</code>, and used the <code>COPY</code> command to load data into Redshift. SQL queries were then executed to analyze and generate insights from the data. This project provided valuable hands-on experience with AWS Redshift, S3, and IAM, while enhancing my skills in data warehouse setup, data loading, and performing analytics through SQL queries.</p>",
+    "technologies": ["AWS Lambda"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://www.linkedin.com/posts/dilshan-perera-552370213_amazon-redshift-activity-7275846153454153729-rLaG?utm_source=share&utm_medium=member_desktop&rcm=ACoAADX7Dg4B2cUMdzueVv0tlx9fraT3aDq40ys"
+  },
+  {
+    "id": 6,
+    "title": "AWS Glue Project",
+    "short_description": "AWS | Python" ,
+    "description": "<p>This project focused on automating ETL processes using AWS Glue, Amazon S3, and Glue Crawlers to efficiently extract, transform, and load (ETL) data from CSV files. The workflow involved configuring S3 buckets for data storage, setting up Glue Crawlers to detect schema and create tables in the Glue Data Catalog, and implementing ETL jobs to process and transfer data. Triggers were used to automate job execution based on schedules or events. Key challenges included schema mapping, ETL debugging, and managing access permissions. The project improved my expertise in cloud-based ETL, AWS Glue automation, and data pipeline optimization.</p>",
+    "technologies": ["AWS"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://www.linkedin.com/posts/dilshan-perera-552370213_aws-glue-etl-project-activity-7273265317424828416-bT53?utm_source=share&utm_medium=member_desktop&rcm=ACoAADX7Dg4B2cUMdzueVv0tlx9fraT3aDq40ys"
+  },
+  {
+    "id": 7,
+    "title": "Sales Insight Power BI DashBoard ",
+    "short_description": "Power BI",
+    "description": "<p></p>",
+    "technologies": ["Power BI"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://github.com/dilshanperera98/Power_BI.git"
+  },
+  {
+    "id": 8,
+    "title": "Tableau Project Customer Data Analysis",
+    "short_description": "Tableau",
+    "description": "<p></p>",
+    "technologies": ["Tableau"],
+    "image": "/images/voice-search.jpg",
+    "link": "https://github.com/dilshanperera98/Tableau-Project---Customer-Data-Analysis.git"
+  }
+]
+

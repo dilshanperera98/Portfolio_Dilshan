@@ -1,0 +1,45 @@
+[
+    {
+      "title": "Deep Learning with Tensorflow",
+      "issuer": "Coursera",
+      "date": "2022",
+      "icon": "https://images.credly.com/size/680x680/images/61d40b7e-46df-4f8a-ac27-cb8520d8c15e/image.png",
+      "badge": "bg-blue-600"
+    },
+    {
+      "title": "Practical Machine Learning",
+      "issuer": "John Hopkins University",
+      "date": "2022",
+      "icon": "https://brand.jhu.edu/wp-content/uploads/2024/07/logos-vertical-1024x683.jpg",
+      "badge": "bg-green-400"
+    },
+    {
+      "title": "Data Warehousing and Business Intelligencen",
+      "issuer": "IBM",
+      "date": "2023",
+      "icon": "https://web.communications.uci.edu/assets/2015/img/seal.png",
+      "badge": "bg-purple-500"
+    },
+    {
+      "title": "Deep Neural Networks with Pytorch",
+      "issuer": "IBM",
+      "date": "2023",
+      "icon": "https://images.credly.com/size/680x680/images/3551a56d-e006-4e63-be6d-6842d2d53cfa/image.png",
+      "badge": "bg-purple-500"
+    },
+    {
+      "title": "Data Science",
+      "issuer": "Coursera",
+      "date": "2023",
+      "icon": "https://images.credly.com/size/680x680/images/5fc2d535-e716-46c4-881a-f4822b8da0e5/Cognitive_Class_-_What_is_Data_Science.png",
+      "badge": "bg-purple-500"
+    },
+    {
+      "title": "The Nature of Data and Relational Database Design",
+      "issuer": "IBM",
+      "date": "2023",
+      "icon": "https://web.communications.uci.edu/assets/2015/img/seal.png",
+      "badge": "bg-purple-500"
+    }
+  
+  ]
