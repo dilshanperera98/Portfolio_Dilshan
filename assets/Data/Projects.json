@@ -8,7 +8,7 @@
     "technologies": ["LangChain", "ChromaDB", "OpenAI Embeddings", "OpenAI GPT-3.5 Turbo","Python"],
     "link": "https://github.com/dilshanperera98/Conversational-RAG-Application-with-LangChain-and-OpenAI-LLM.git"
   },
-  {
+  { 
     "id": 2,
     "title": "Ai Powered Tour Guide",
     "short_description": "Google Vision API | OpenAI | Python",
