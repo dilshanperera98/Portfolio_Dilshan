@@ -120,7 +120,7 @@ const About = ({ isDarkMode }) => {
               </svg> 
               Certifications 
             </motion.div>
-
+ 
             {showCertifications && (          
               <motion.div
                 initial={{ opacity: 0, y: -10 }}
