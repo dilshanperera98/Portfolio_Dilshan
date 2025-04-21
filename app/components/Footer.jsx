@@ -29,7 +29,7 @@ export default Footer
 hbjbj
 
 
-;[kopj]
+;[ko
 
 
 
