@@ -26,7 +26,7 @@ const Footer = ({isDarkMode}) => {
 
 export default Footer
 
-hg
+
 
 
 
