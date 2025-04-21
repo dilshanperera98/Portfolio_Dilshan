@@ -28,11 +28,6 @@ export default Footer
 
 
 
-jbhmkbmjb
-yvgjhkjhv
-
-
-kschbkdnv
 
 
 
